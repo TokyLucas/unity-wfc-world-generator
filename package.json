@@ -1,1 +1,19 @@
-
+{
+    "name": "io.github.tokylucas",
+    "version": "1.0.0",
+    "displayName": "WFC World Generator",
+    "description": "World Generator using the Wave Function Collapse algorithm.",
+    "unity": "2023.1",
+    "unityRelease": "22f1",
+    "dependencies": {},
+    "keywords": [
+        "WFC",
+        "world generator",
+        "procedural generation"
+    ],
+    "author": {
+        "name": "Toky Lucas",
+        "email": "toky.andrianina401@gmail.com",
+        "url": "https://github.com/TokyLucas/unity-wfc-world-generator"
+    }
+}
